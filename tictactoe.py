@@ -138,6 +138,7 @@ def isBoardFull(board):
 
 
 print('Welcome to Tic Tac Toe!')
+print(‘Have fun’)
 
 while True:
     # Reset the board
