@@ -137,7 +137,6 @@ def isBoardFull(board):
     return True
 
 
-print('Welcome to Tic Tac Toe!')
 print(‘Have fun’)
 
 while True:
